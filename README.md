@@ -1,1 +1,1 @@
-# SSDP-Projekt
+# SSDP (Simple Service Discovery Protocol)
